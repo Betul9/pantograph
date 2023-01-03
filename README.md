@@ -1,4 +1,4 @@
-# pantograph
+# Object Localization for Detecting The Horn Regions on Pantographs
 
 ## The repository contains my work that is done for accomplishing object localization. Since my prior knowledge was not enough to reveal an excellent job, the results are not good enough and need to be evaluated more for understanding the problematic parts of the work.
 
